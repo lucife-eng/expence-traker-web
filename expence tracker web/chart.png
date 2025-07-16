@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Expense Chart</title>
+</head>
+<body>
+    <h1>📊 Expense by Category</h1>
+    <img src="/static/chart.png" alt="Expense Chart">
+    <br><br>
+    <a href="/">⬅ Back to Home</a>
+</body>
+</html>
